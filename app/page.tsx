@@ -26,9 +26,9 @@ function Home() {
               Easily get high, low, and current prices for any product. Make
               smarter purchasing decisions with Scrapify!
             </p>
-            <Searchbar/>
+            <Searchbar />
           </div>
-          <HeroCarousel/>
+          <HeroCarousel />
         </div>
       </section>
 
